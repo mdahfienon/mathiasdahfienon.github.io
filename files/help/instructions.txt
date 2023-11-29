@@ -1,0 +1,22 @@
+Execute in cmd:
+
+(1) (change command directory)
+
+cd C:\Users\u0131219\Desktop\Website
+
+(2) Create local version of website (to see how it would look like) - localhost:4000
+
+bundle exec jekyll serve
+
+(3) Leave local environment
+
+ctrl + c - Y - Y
+
+(4) Open GitHub desktop and commit to master - push origin
+
+(5) Push to github
+
+git push
+
+(6) Everything should be changed now
+
