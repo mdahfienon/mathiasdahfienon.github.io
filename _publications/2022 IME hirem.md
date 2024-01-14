@@ -11,4 +11,4 @@ pubtype: 'publication'
 citation: 'Crevecoeur, J., Robben, J., & Antonio, K. (2022). A hierarchical reserving model for reported non-life insurance claims, 104, 158-184. <b>Insurance: Mathematics and Economics</b>. DOI: 10.1016/j.insmatheco.2022.02.005'
 ---
 
-<i>Presented at: KU Leuven (2021), Insurance Data Science Conference (2022, Milan) </i>
+<i>Presented at: Insurance Data Science Conference (2022, Milan), KU Leuven (2021) </i>
