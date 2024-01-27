@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 output:
-author_profile: true
 html_document:
   includes:
     in_header: header.html
