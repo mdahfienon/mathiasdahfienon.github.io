@@ -24,6 +24,6 @@ Welcome! I'm a fourth-year PhD researcher under the supervision of <a href="http
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Mathematics, KU Leuven, 2017   
 
 ## News
-<i class="fa fa-newspaper-o" aria-hidden="true"></i> Our paper "Catastrophe risk in a stochastic multi-population mortality model", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance.</b>
-<i class="fa fa-motorcycle" aria-hidden="true"></i> I will assist in the organisation of the 35th International Summer School of the Swiss Association of Actuaries at the University of Lausanne (June 3-7, 2024). Scientific directors: Katrien Antonio (KU Leuven & UvA), Torsten Kleinow (UvA), and Michel Vellekoop (UvA).
+<i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "Catastrophe risk in a stochastic multi-population mortality model", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance.</b> 
+<i class="fa fa-info-circle" aria-hidden="true"></i> I will assist in the organisation of the 35th International Summer School of the Swiss Association of Actuaries at the University of Lausanne (June 3-7, 2024). Scientific directors: Katrien Antonio (KU Leuven & UvA), Torsten Kleinow (UvA), and Michel Vellekoop (UvA).
 
