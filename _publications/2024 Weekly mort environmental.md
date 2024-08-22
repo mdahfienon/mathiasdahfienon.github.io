@@ -3,7 +3,7 @@ title: "The short-term association between environmental variables and mortality
 collection: publications
 permalink: /publication/2024-envvar
 date: 2024-08-20
-link: https://arxiv.org/abs/2405.18020'
+link: 'https://doi.org/10.48550/arXiv.2405.18020'
 paperurl: '/files/papers/envvar_arxiv.pdf'
 github: 'https://github.com/jensrobben/EnvVar-Mortality-Europe'
 pubtype: 'workingpaper'
