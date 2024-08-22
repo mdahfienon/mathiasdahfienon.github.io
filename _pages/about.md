@@ -25,7 +25,7 @@ Welcome! I'm a fourth-year PhD researcher under the supervision of <a href="http
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Mathematics, KU Leuven, 2014-2017   
 
 ## News
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Katrien Antonio (KUL, UvA) and Torsten Kleinow (UvA), is now available: "<i>The Short-Term Association Between Environmental Variables and Mortality: Evidence from Europe</i>". You can read it on arXiv <a href="https://arxiv.org/abs/2405.18020">here</a>.
+<i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Katrien Antonio (KUL, UvA) and Torsten Kleinow (UvA), is now available: "<i>The short-term association between environmental variables and mortality: evidence from Europe</i>". You can read it on arXiv <a href="https://arxiv.org/abs/2405.18020">here</a>.
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> Starting September 1, 2024, I will take on the position of postdoctoral researcher at the University of Amsterdam's Research Center for Longevity Risk.
 
