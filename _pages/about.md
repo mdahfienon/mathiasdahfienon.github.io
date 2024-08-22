@@ -29,5 +29,7 @@ Welcome! I'm a fourth-year PhD researcher under the supervision of <a href="http
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> Starting September 1, 2024, I will take on the position of postdoctoral researcher at the University of Amsterdam's Research Center for Longevity Risk.
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>Catastrophe risk in a stochastic multi-population mortality model</i>", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance</b>.
+<i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>Catastrophe risk in a stochastic multi-population mortality model</i>", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance</b>. You can read it <a href="
+https://doi.org/10.1111/jori.12470">here</a> or on <a href="
+https://doi.org/10.48550/arXiv.2306.15271">arXiv</a>.
 
