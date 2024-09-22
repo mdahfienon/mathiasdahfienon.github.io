@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 # Teaching University of Amsterdam - Actuarial Science program
 ## Academic year 2024-2025
-Teaching assistant <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120488">Life Insurance Mathematics</a>, <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120718">Introduction Econometrics and Actuarial Science</a>, and <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/121026">Introduction Data Science</a>
+Teaching assistant <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120488">Life Insurance Mathematics</a>, <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120718">Introduction Econometrics and Actuarial Science</a>, and <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/121026">Introduction Data Science</a>  
 Work leader bachelor and master's theses: 
 
   
