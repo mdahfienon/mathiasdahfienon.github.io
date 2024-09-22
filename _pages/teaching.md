@@ -10,6 +10,10 @@ author_profile: true
 Teaching assistant <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120488">Life Insurance Mathematics</a>, <a https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120718">Introduction Econometrics and Actuarial Science</a>, and <a https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/121026">Introduction Data Science</a>
 Work leader bachelor and master's theses: 
 
+  
+    
+      
+
 # Teaching KU Leuven - Actuarial and Financial Engineering (MAFE)
 ## Academic year 2023-2024
 Teaching assistant <a href="https://onderwijsaanbod.kuleuven.be/2023/syllabi/e/D0R33AE.htm#activetab=doelstellingen_idm9308800">Loss Models</a>: taught 5 exercise sessions and developed/evaluated three assignements   
