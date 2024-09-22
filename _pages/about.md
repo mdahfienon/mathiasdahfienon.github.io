@@ -18,7 +18,7 @@ html_document:
 Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Research Centre for Longevity Risk</a> of the University of Amsterdam. Previously, I did my PhD under the supervision of <a href="https://katrienantonio.github.io">Katrien Antonio</a> in the Insurance department at the Faculty of Economics and Business, KU Leuven. My current research explores diverse aspects of mortality and longevity modeling, with a focus on the impact of climate risk on excess mortality, the use of machine learning techniques in mortality modeling, and old-age mortality patterns. Additionally, I hold a keen interest in the application of data science techniques within the non-life insurance domain.
 
 ## Education
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Postdoc at RCLR, University of Amsterdam, the Netherlands, 2024-Present 
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Postdoc at RCLR, University of Amsterdam, the Netherlands, 2024-Present  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in Actuarial Sciences, KU Leuven, 2020-2024  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Actuarial and Financial Engineering, KU Leuven, 2019-2020  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Mathematics, KU Leuven, 2017-2019    
