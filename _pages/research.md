@@ -29,6 +29,15 @@ author_profile: true
 
 <span style="color:white">Publications</span>
 
+# <span style="color:#77AFC7">Work in progress</span>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'workinprogress' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<span style="color:white">Publications</span>
+
 # <span style="color:#77AFC7">External reports</span>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'external' %}

@@ -15,7 +15,7 @@ html_document:
     
 ---
 
-Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Research Centre for Longevity Risk</a> of the University of Amsterdam. Previously, I did my PhD under the supervision of <a href="https://katrienantonio.github.io">Katrien Antonio</a> in the Insurance department at the Faculty of Economics and Business, KU Leuven. My current research explores diverse aspects of mortality and longevity modeling, with a focus on the impact of climate risk on excess mortality, the use of machine learning techniques in mortality modeling, and old-age mortality patterns. Additionally, I hold a keen interest in the application of data science techniques within the non-life insurance domain.
+Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Research Centre for Longevity Risk</a> of the University of Amsterdam. Previously, I did my PhD under the supervision of <a href="https://katrienantonio.github.io">Katrien Antonio</a> in the Insurance department at the Faculty of Economics and Business, KU Leuven. My current research explores diverse aspects of mortality and longevity modeling, with a focus on the impact of environmental and epidemiological variables on excess mortality, the use of machine learning techniques in mortality modeling, and old-age mortality patterns. Additionally, I hold a keen interest in the application of data science techniques within the non-life insurance domain.
 
 ## Education
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Postdoc at RCLR, University of Amsterdam, the Netherlands, 2024-Present  
@@ -28,8 +28,6 @@ Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Resear
 <i class="fa fa-info-circle" aria-hidden="true"></i> As of September 1, 2024 I have started as a postdoctoral researcher at the Research Centre for Longevity Risk of the University of Amsterdam.
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Katrien Antonio (KUL, UvA) and Torsten Kleinow (UvA), is now available: "<i>The short-term association between environmental variables and mortality: evidence from Europe</i>". You can read it on <a href="https://arxiv.org/abs/2405.18020">arXiv</a>.
-
-<i class="fa fa-info-circle" aria-hidden="true"></i> Starting September 1, 2024, I will take on the position of postdoctoral researcher at the University of Amsterdam's Research Center for Longevity Risk.
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>Catastrophe risk in a stochastic multi-population mortality model</i>", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance</b>. You can read it <a href="
 https://doi.org/10.1111/jori.12470">here</a> or on <a href="
