@@ -9,5 +9,3 @@ paperurl: '/files/papers/ImpactCOVID19_arxiv.pdf'
 pubtype: 'publication'
 citation: 'Robben, J., Antonio, K., & Devriendt, S. (2022). Assessing the Impact of the COVID-19 Shock on a Stochastic Multi-Population Mortality Model, 10(2), 26. <b>Risks</b>. DOI: 10.3390/risks10020026'
 ---
-
-<i>Presented at: 24th International Congress on Insurance: Mathematics and Economics (2021, online), KU Leuven (2021) </i>

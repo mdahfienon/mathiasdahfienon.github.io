@@ -9,5 +9,3 @@ github: 'https://github.com/jensrobben/catastrophe-risk'
 pubtype: 'publication'
 citation: 'Robben, J., & Antonio, K. (2024). Catastrophe risk in a stochastic multi-population mortality model, 91, 599–651. <b>Journal of Risk and Insurance.</b> DOI: 10.1111/jori.12470'
 ---
-
-<i> Presented at: KULeuven-Bayes-UvA PhD workshop (2024, Leuven), KU Leuven (2023), RCLR seminar (2023, Amsterdam), 26th International Congress on Insurance: Mathematics and Economics (2023, Edinburgh), Modelling and Societal Impact of Longevity and Ageing Conference (2023, Amsterdam), European Actuarial Journal Conference (2022, Tartu)  </i>
