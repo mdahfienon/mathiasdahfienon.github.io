@@ -1,6 +1,6 @@
 ---
 title: "A hierarchical reserving model for reported non-life insurance claims"
-collection: publications
+collection: publications 
 permalink: /publication/2022-hirem
 date: 2022-03-01
 venue: 'Insurance: Mathematics and Economics'
