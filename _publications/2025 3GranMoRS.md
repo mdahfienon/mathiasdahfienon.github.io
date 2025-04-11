@@ -1,5 +1,5 @@
 ---
-title: "Granular mortality modelling with temperature- and epidemiological-related shocks: a three-state regime-switching approach"
+title: "Granular mortality modeling with temperature and epidemic shocks: a three-state regime-switching approach"
 collection: publications
 permalink: /publication/2025-granmors
 date: 2025-03-06

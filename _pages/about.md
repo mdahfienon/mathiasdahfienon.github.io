@@ -25,6 +25,9 @@ Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Resear
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Mathematics, KU Leuven, 2014-2017   
 
 ## News
+<i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Karim Barigou (UCLouvain) and Torsten Kleinow (UvA), is now available: "<i>Granular mortality modeling with temperature and epidemic shocks: a three-state regime-switching approach
+</i>". You can read it on <a href="https://arxiv.org/abs/2503.04568">arXiv</a>.
+
 <i class="fa fa-info-circle" aria-hidden="true"></i> As of September 1, 2024 I have started as a postdoctoral researcher at the Research Centre for Longevity Risk of the University of Amsterdam.
 
 <i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Katrien Antonio (KUL, UvA) and Torsten Kleinow (UvA), is now available: "<i>The short-term association between environmental variables and mortality: evidence from Europe</i>". You can read it on <a href="https://arxiv.org/abs/2405.18020">arXiv</a>.
