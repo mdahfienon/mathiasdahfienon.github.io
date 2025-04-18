@@ -11,7 +11,7 @@ title                    : "Jens Robben"
 title_separator          : "-"
 name                     : &name "Jens Robben"
 description              : &description "personal description"
-url                      : https://jensrobben.github.io
+url                      : https://mathiasdahfienon.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jensrobben/jensrobben.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
