@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jens Robben"
+title                    : "Mathias Dah Fienon"
 title_separator          : "-"
-name                     : &name "Jens Robben"
+name                     : &name "Mathias Dah Fienon"
 description              : &description "personal description"
-url                      : https://mathiasdahfienon.github.io
+url                      : https://mdahfienon.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jensrobben/jensrobben.github.io"
+repository               : "mdahfienon/mdahfienon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jens Robben"
-  avatar           : "Jens.png"
-  bio              : "Postdoctoral researcher"
+  name             : "Mathias Dah Fienon"
+  avatar           : "me.jpg"
+  bio              : "Data scientist, PhD candidate in statistics"
   location         : 
-  employer         : "University of Amsterdam"
-  googlescholar    : "https://scholar.google.be/citations?user=ZTSFTmMAAAAJ&hl=nl"
+  employer         : "Université Catholique de Louvain"
+  googlescholar    : "" #"https://scholar.google.be/citations?user=ZTSFTmMAAAAJ&hl=nl"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Jens_Robben"
+  researchgate     : "" #"https://www.researchgate.net/profile/Jens_Robben"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jensrobben"
+  github           : "mdahfienon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jens-robben-4a075b1aa"
-  orcid            : "https://orcid.org/0000-0001-6187-3575"
+  linkedin         : "mathiasdahfienon"
+  orcid            : "" #"https://orcid.org/0000-0001-6187-3575"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
