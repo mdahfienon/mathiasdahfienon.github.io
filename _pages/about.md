@@ -15,24 +15,70 @@ html_document:
     
 ---
 
-Welcome! I am a postdoctoral researcher at the <a href="https://rclr.nl/">Research Centre for Longevity Risk</a> of the University of Amsterdam. Previously, I did my PhD under the supervision of <a href="https://katrienantonio.github.io">Katrien Antonio</a> in the Insurance department at the Faculty of Economics and Business, KU Leuven. My current research explores diverse aspects of mortality and longevity modeling, with a focus on the impact of environmental and epidemiological variables on excess mortality, the use of machine learning techniques in mortality modeling, and old-age mortality patterns. Additionally, I hold a keen interest in the application of data science techniques within the non-life insurance domain.
+# Hi there, I'm Mathias! 👋
 
-## Education
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Postdoc at RCLR, University of Amsterdam, the Netherlands, 2024-Present  
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in Actuarial Sciences, KU Leuven, 2020-2024  
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Actuarial and Financial Engineering, KU Leuven, 2019-2020  
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Mathematics, KU Leuven, 2017-2019    
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Mathematics, KU Leuven, 2014-2017   
+## 🔍 About Me 🏆
+I'm a PhD candidate in Statistics with a strong interest in **quantitative finance, time series volatility, risk management, and machine learning**. My research focuses on **Dynamic Risk Parity Portfolio Selection with Independent Component Analysis**, and I also explore topics in **cyber risk quantification, systemic risk modeling, and model validation frameworks**.
 
-## News
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Karim Barigou (UCLouvain) and Torsten Kleinow (UvA), is now available: "<i>Granular mortality modeling with temperature and epidemic shocks: a three-state regime-switching approach
-</i>". You can read it on <a href="https://arxiv.org/abs/2503.04568">arXiv</a>.
+I'm passionate about applying statistical and machine learning techniques to **financial risk assessment**, aiming to bridge the gap between academia and industry. My goal is to leverage these skills for a career in **data science within the insurance or banking sector**.
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> As of September 1, 2024 I have started as a postdoctoral researcher at the Research Centre for Longevity Risk of the University of Amsterdam.
+---
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our new working paper, co-authored with Katrien Antonio (KUL, UvA) and Torsten Kleinow (UvA), is now available: "<i>The short-term association between environmental variables and mortality: evidence from Europe</i>". You can read it on <a href="https://arxiv.org/abs/2405.18020">arXiv</a>.
+## 🚀 Skills & Interests
+- 📊 **Quantitative Finance** – Portfolio optimization, risk parity, financial econometrics
+- 📈 **Time Series Analysis** – Volatility modeling, forecasting, stochastic processes
+- 🤖 **Machine Learning** – Supervised & unsupervised learning, feature selection, anomaly detection
+- 📌 **Model Validation** – Backtesting, stress testing, regulatory compliance
+- 🏦 **Risk Management** – Cyber risk quantification, systemic risk modeling
+- 🔧 **Technical Stack**: Python (NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL, Git, LaTeX
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> Our paper "<i>Catastrophe risk in a stochastic multi-population mortality model</i>", co-authored with Katrien Antonio, has been accepted for publication in the <b>Journal of Risk and Insurance</b>. You can read it <a href="
-https://doi.org/10.1111/jori.12470">here</a> or on <a href="
-https://doi.org/10.48550/arXiv.2306.15271">arXiv</a>.
+---
+## Education 
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in Statistics, UCLouvain, 2024-present  
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Data Science focus Statistics, UCLouvain, 2021-2024     
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Statistics, Université de Parakou (Benin), 2014-2017   
+
+## 📌 Featured Projects
+
+Here are some of my key projects that reflect my expertise and interests:
+
+### 1️⃣ **Dynamic Risk Parity Portfolio Selection**
+📖 *Research-driven approach to optimizing risk-balanced portfolios using Independent Component Analysis.*  
+🔗 [GitHub Repo](https://github.com/mdahfienon/score_driven) | 📄 [Paper (available soon)](#)
+
+### 2️⃣ **Time Series Volatility Modeling**
+📖 *Exploring GARCH models, regime-switching, and deep learning methods for financial volatility forecasting.*  
+🔗 [GitHub Repo](https://github.com/mdahfienon/LSTAT2170_TimesSeries)
+
+### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
+📖 *Developing statistical and ML-based approaches for assessing cyber risk in banks and insurance companies.*  
+🔗 [GitHub Repo](#)
+
+---
+
+## 📚 Latest Contributions & Writings ✍️
+- 📝 **[My latest blog post on risk management](#)**
+- 🎤 **Talks & presentations on quantitative finance**
+
+---
+
+
+Feel free to check out my repositories, collaborate on projects, or reach out for discussions on **quantitative finance, risk modeling, and data science applications in finance**!
+
+
+<!--
+**mdahfienon/mdahfienon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
