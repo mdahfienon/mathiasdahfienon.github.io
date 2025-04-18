@@ -36,7 +36,7 @@ I'm passionate about applying statistical and machine learning techniques to **f
 ## Education 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in Statistics, UCLouvain, 2024-present  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Data Science focus Statistics, UCLouvain, 2021-2024     
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Statistics, Université de Parakou (Benin), 2014-2017   
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Statistics, Université de Parakou (Benin), 2012-2016   
 
 ## 📌 Featured Projects
 
