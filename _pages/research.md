@@ -1,8 +1,3 @@
----
-layout: archive
-permalink: /research/
-author_profile: true
----
 
 
 ### 📌 Featured Projects
@@ -28,7 +23,11 @@ Here are some of my key projects that reflect my expertise and interests:
 - 🎤 **Talks & presentations on quantitative finance**
 
 <!---
-
+---
+layout: archive
+permalink: /research/
+author_profile: true
+---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
