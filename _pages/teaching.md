@@ -7,12 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-# University of Amsterdam
+# Catholic University of Louvain
 ## Academic year 2024-2025
 Teaching assistant <a href="https://uclouvain.be/cours-2024-linge1221">Econometrie</a>, <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/120718">Introduction Econometrics and Actuarial Science</a>, and <a href="https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/121026">Introduction Data Science</a>  
-Work leader bachelor and master's theses: 
+
 
 <!--- 
+Work leader bachelor and master's theses: 
 &nbsp;   
       
 
