@@ -53,7 +53,7 @@ Here are some of my key projects that reflect my expertise and interests:
 #### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
 📖 *Developing statistical and ML-based approaches for assessing cyber risk in banks and insurance companies.*  
 🔗 [GitHub Repo](#)
---->
+
 ---
 
 ### 📚 Latest Contributions & Writings ✍️
@@ -61,6 +61,10 @@ Here are some of my key projects that reflect my expertise and interests:
 - 🎤 **Talks & presentations on quantitative finance**
 
 ---
+--->
+---
+
+
 
 
 Feel free to check out my repositories, collaborate on projects, or reach out for discussions on **quantitative finance, risk modeling, and data science applications in finance**!
