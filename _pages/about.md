@@ -37,7 +37,7 @@ I'm passionate about applying statistical and machine learning techniques to **f
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in Statistics, UCLouvain, 2024-present  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Data Science focus Statistics, UCLouvain, 2021-2024     
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Statistics, Université de Parakou (Benin), 2012-2016   
-
+<!---
 ### 📌 Featured Projects
 
 Here are some of my key projects that reflect my expertise and interests:
@@ -53,7 +53,7 @@ Here are some of my key projects that reflect my expertise and interests:
 #### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
 📖 *Developing statistical and ML-based approaches for assessing cyber risk in banks and insurance companies.*  
 🔗 [GitHub Repo](#)
-
+--->
 ---
 
 ### 📚 Latest Contributions & Writings ✍️
