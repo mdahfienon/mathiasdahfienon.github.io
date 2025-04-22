@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mathias Dah Fienon"
 title_separator          : "-"
-name                     : &name "Mathias Dah Fienon"
+name                     : "Mathias Dah Fienon" #&name 
 description              : &description "personal description"
 url                      : https://mdahfienon.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
