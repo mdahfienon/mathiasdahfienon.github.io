@@ -84,10 +84,10 @@ author:
   avatar           : "me.jpg"
   bio              : "Data Scientist, PhD candidate in Statistics"
   location         : 
-  employer         : "Université Catholique de Louvain"
+  employer         : "Catholic University of Louvain"
   googlescholar    : "" #"https://scholar.google.be/citations?user=ZTSFTmMAAAAJ&hl=nl"
-  email            :
-  researchgate     : "" #"https://www.researchgate.net/profile/Jens_Robben"
+  email            : "mfienon@yahoo.com"
+  researchgate     : "https://www.researchgate.net/profile/Mathias-Dah-Fienon"
   uri              :
   bitbucket        :
   codepen          :
@@ -112,7 +112,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "DataWorldMathias"
   wikipedia        :
 
 
