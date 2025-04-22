@@ -28,6 +28,8 @@ Here are some of my key projects that reflect my expertise and interests:
 - 🎤 **Talks & presentations on quantitative finance**
 
 <!---
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
