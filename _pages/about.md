@@ -15,16 +15,16 @@ html_document:
     
 ---
 
-### Hi there, I'm Mathias! 👋
+## Hi there, I'm Mathias! 👋
 
-#### 🔍 About Me 🏆
+### 🔍 About Me 🏆
 I'm a PhD candidate in Statistics with a strong interest in **quantitative finance, time series volatility, risk management, and machine learning**. My research focuses on **Dynamic Risk Parity Portfolio Selection with Independent Component Analysis**, and I also explore topics in **cyber risk quantification, systemic risk modeling, and model validation frameworks**.
 
 I'm passionate about applying statistical and machine learning techniques to **financial risk assessment**, aiming to bridge the gap between academia and industry. My goal is to leverage these skills for a career in **data science within the insurance or banking sector**.
 
 ---
 
-#### 🚀 Skills & Interests
+### 🚀 Skills & Interests
 - 📊 **Quantitative Finance** – Portfolio optimization, risk parity, financial econometrics
 - 📈 **Time Series Analysis** – Volatility modeling, forecasting, stochastic processes
 - 🤖 **Machine Learning** – Supervised & unsupervised learning, feature selection, anomaly detection
@@ -33,30 +33,30 @@ I'm passionate about applying statistical and machine learning techniques to **f
 - 🔧 **Technical Stack**: Python (NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL, Git, LaTeX
 
 ---
-#### 📝 Education 
+### 📝 Education 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD in Statistics, UCLouvain, 2024-present  
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> MSc in Data Science focus Statistics, UCLouvain, 2021-2024     
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> BSc in Statistics, Université de Parakou (Benin), 2012-2016   
 
-#### 📌 Featured Projects
+### 📌 Featured Projects
 
 Here are some of my key projects that reflect my expertise and interests:
 
-##### 1️⃣ **Dynamic Risk Parity Portfolio Selection**
+#### 1️⃣ **Dynamic Risk Parity Portfolio Selection**
 📖 *Research-driven approach to optimizing risk-balanced portfolios using Independent Component Analysis.*  
 🔗 [GitHub Repo](https://github.com/mdahfienon/score_driven) | 📄 [Paper (available soon)](#)
 
-##### 2️⃣ **Time Series Volatility Modeling**
+#### 2️⃣ **Time Series Volatility Modeling**
 📖 *Exploring GARCH models, regime-switching, and deep learning methods for financial volatility forecasting.*  
 🔗 [GitHub Repo](https://github.com/mdahfienon/LSTAT2170_TimesSeries)
 
-##### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
+#### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
 📖 *Developing statistical and ML-based approaches for assessing cyber risk in banks and insurance companies.*  
 🔗 [GitHub Repo](#)
 
 ---
 
-#### 📚 Latest Contributions & Writings ✍️
+### 📚 Latest Contributions & Writings ✍️
 - 📝 **[My latest blog post on risk management](#)**
 - 🎤 **Talks & presentations on quantitative finance**
 
