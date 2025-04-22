@@ -1,9 +1,9 @@
-
 ---
 layout: archive
 permalink: /research/
 author_profile: true
 ---
+
 
 ### 📌 Featured Projects
 
@@ -20,6 +20,12 @@ Here are some of my key projects that reflect my expertise and interests:
 #### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
 📖 *Developing statistical and ML-based approaches for assessing cyber risk in banks and insurance companies.*  
 🔗 [GitHub Repo](#)
+
+---
+
+### 📚 Latest Contributions & Writings ✍️
+- 📝 **[My latest blog post on risk management](#)**
+- 🎤 **Talks & presentations on quantitative finance**
 
 <!---
 {% if author.googlescholar %}
