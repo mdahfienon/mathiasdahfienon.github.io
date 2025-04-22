@@ -3,7 +3,7 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
-
+<!---
 {% include base_path %}
 
 # University of Amsterdam
@@ -31,3 +31,4 @@ Work leader master's theses: Robin Goris (MAFE), Diana Rosales Meseguer (MAFE), 
 ## Academic year 2020-2021
 Teaching assistant <a href="https://onderwijsaanbod.kuleuven.be/2020/syllabi/e/D0R33AE.htm#activetab=doelstellingen_idm9308800">Loss Models</a>: taught 5 exercise sessions and developed/evaluated three assignments  
 Work leader master's theses: Elien Baeten (MAFE), Remco Bruinsma (UvA)
+--->
