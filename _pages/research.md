@@ -22,7 +22,7 @@ Here are some of my key projects that reflect my expertise and interests:
 - 📝 **[My latest blog post on risk management](#)**
 - 🎤 **Talks & presentations on quantitative finance**
 
---->
+
 ---
 layout: archive
 permalink: /research/
