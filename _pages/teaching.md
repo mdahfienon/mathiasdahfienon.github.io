@@ -1,11 +1,12 @@
 
 ---
 layout: archive
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+ <!--- {% include base_path %} --->
 
 # Catholic University of Louvain
 ## Academic year 2024-2025
